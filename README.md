@@ -1,4 +1,4 @@
-# Career Guidance Project
+# Career Compass [Navigating Future] Project
 
 Welcome to the Career Guidance Project! This project aims to provide personalized career guidance and support to individuals at various stages of their professional journey. By leveraging advanced AI algorithms and open-source data integration, our platform offers tailored recommendations, learning resources, and industry insights to empower users in making informed career decisions.
 
@@ -25,5 +25,5 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/CareerGuidanceProject.git
-   cd CareerGuidanceProject
+   -git clone https://github.com/your-username/CareerGuidanceProject.git
+   -cd CareerGuidanceProject
