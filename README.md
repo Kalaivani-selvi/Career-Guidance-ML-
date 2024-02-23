@@ -5,8 +5,8 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 ## Features
 
 - **Login and Register**: Secure authentication system for users to create accounts and log in.
-- **Profile**: Personalized user profiles to manage preferences, skills, and interests.
-- **Career Predictor**: AI-driven career prediction tool to suggest suitable career paths based on user profiles.
+- **Profile**: Personalized user profiles.
+- **Career Predictor**: AI-driven career prediction tool to suggest suitable career paths based on user skills.
 - **Chatbot**: Interactive chatbot feature to provide real-time assistance and answer user queries.
 - **Resume Template**: Tools and templates to assist users in creating professional resumes tailored to their career goals.
 - **Question and Answer**:
@@ -27,3 +27,38 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 1. Clone the repository:
   - `git clone [https://github.com/Kalaivani-selvi/Career-Guidance-ML-.git]`
   - `cd Career-Guidance-ML-`
+
+Clone the repository:
+<div>
+  <code id="cloneCommand">git clone https://github.com/your-username/CareerGuidanceProject.git</code>
+  <button onclick="copyCommand('cloneCommand')">Copy</button>
+</div>
+
+Change to the project directory:
+<div>
+  <code id="cdCommand">cd CareerGuidanceProject</code>
+  <button onclick="copyCommand('cdCommand')">Copy</button>
+</div>
+
+<script>
+  function copyCommand(elementId) {
+  /* Get the text from the code element */
+  const command = document.getElementById(elementId).innerText;
+
+  /* Create a textarea to store the command and select it */
+  const textarea = document.createElement('textarea');
+  textarea.value = command;
+  document.body.appendChild(textarea);
+  textarea.select();
+
+  /* Copy the command to the clipboard */
+  document.execCommand('copy');
+
+  /* Remove the textarea */
+  document.body.removeChild(textarea);
+
+  /* Provide visual feedback */
+  alert('Command copied to clipboard: ' + command);
+}
+
+</script>
