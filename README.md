@@ -27,3 +27,34 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 1. Clone the repository:
   - `git clone [https://github.com/Kalaivani-selvi/Career-Guidance-ML-.git]`
   - `cd Career-Guidance-ML-`
+
+2. Install dependencies:
+  - `pip install -r requirements.txt`
+
+3. Start the application:
+  -  `python cg.py`
+
+
+### Demo Video
+
+[Insert link to your demo video here]
+
+### Screenshots
+
+[Insert screenshots of your application here]
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the Career Guidance Project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in our project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For inquiries or support, feel free to contact us at [kalaivani.designer@gmail.com].
