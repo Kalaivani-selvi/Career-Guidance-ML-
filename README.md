@@ -25,5 +25,5 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 ### Installation
 
 1. Clone the repository:
-   -**git clone https://github.com/your-username/CareerGuidanceProject.git**
-   -**cd CareerGuidanceProject**
+  - `git clone https://github.com/your-username/CareerGuidanceProject.git`
+  - `cd CareerGuidanceProject`
