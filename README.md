@@ -43,10 +43,6 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 
 [Insert screenshots of your application here]
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the Career Guidance Project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## Code of Conduct
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in our project.
