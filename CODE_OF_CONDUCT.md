@@ -14,7 +14,7 @@ Welcome to our Career Guidance Project! We are committed to fostering a supporti
 
 ## Reporting Violations:
 
-If you witness or experience behavior that violates our Code of Conduct, please report it promptly to [designated contact person or team] at [contact email]. All reports will be handled confidentially and investigated thoroughly.
+If you witness or experience behavior that violates our Code of Conduct, please report it promptly to [designated contact person or team] at [kalaivani.designer@gmail.com]. All reports will be handled confidentially and investigated thoroughly.
 
 ## Enforcement Procedures:
 
