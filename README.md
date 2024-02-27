@@ -37,14 +37,20 @@ Welcome to the Career Guidance Project! This project aims to provide personalize
 
 ### Demo Video
 
-[https://drive.google.com/file/d/1ClFtR5bRfrYuiIuBvcumEsQYuNR4XwNA/view?usp=drive_link]
+[]
 
 ### Screenshots
+## Landing Page
 ![landing](https://github.com/Kalaivani-selvi/Career-Guidance-ML-/assets/131773154/5a09a4f1-c396-4915-85b9-0dea24baa607)
+## Dashboard 
 ![dashboard](https://github.com/Kalaivani-selvi/Career-Guidance-ML-/assets/131773154/95180c34-16ad-4a86-ba6d-1f03958a52fe)
+## Career Predictor 
 ![cp](https://github.com/Kalaivani-selvi/Career-Guidance-ML-/assets/131773154/0b02ac10-7073-40b0-bf89-dcfb43c960de)
+## Chatbot
 ![chatbot](https://github.com/Kalaivani-selvi/Career-Guidance-ML-/assets/131773154/91ff5ee5-2bd1-49bc-a365-105abfe83b55)
+## Resume Template
 ![rt](https://github.com/Kalaivani-selvi/Career-Guidance-ML-/assets/131773154/6278884d-2751-4a48-883d-b9c802b6adaa)
+## Job Search
 ![job-search](https://github.com/Kalaivani-selvi/Career-Guidance-ML-/assets/131773154/438b05e4-9f70-43af-afbe-e03c01270bd3)
 
 
