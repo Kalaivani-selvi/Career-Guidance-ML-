@@ -1,4 +1,4 @@
-# Career Guidance Project Code of Conduct
+# Career Guidance Project Code of Conduct 
 
 Welcome to our Career Guidance Project! We are committed to fostering a supportive and inclusive community where all individuals feel respected, valued, and empowered. By participating in our project, you agree to abide by the following Code of Conduct:
 
